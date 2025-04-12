@@ -8,7 +8,7 @@ dht DHT;
 // ULTRASONIDO:
 int TRIG = 10;
 int ECO = 9;
-int LED = 13;
+int LED = 11;
 int DURACION;
 int DISTANCIA;
 
